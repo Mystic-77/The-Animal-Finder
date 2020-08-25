@@ -7,9 +7,9 @@ A maven based javaFX application that uses mongoDB that helps to identify unknow
 
 <img src="https://i.imgur.com/ounoqkB.png" alt="Screenshot1" style="zoom: 80%;" />
 
-<img src="https://i.imgur.com/CUtxaRb.png" alt="Screenshot2" style="zoom:80%;" />![Screenshot3](https://i.imgur.com/P42ONpw.png)
+<img src="https://i.imgur.com/CUtxaRb.png" alt="Screenshot2" style="zoom:80%;" />
 
-<img src="https://i.imgur.com/CUtxaRb.png" alt="Screenshot2" style="zoom:80%;" />![Screenshot3](https://i.imgur.com/P42ONpw.png)
+<img src="https://i.imgur.com/P42ONpw.png" alt="Screenshot3" style="zoom:80%;" />
 
 ## How to Run the Code
 
