@@ -1,17 +1,17 @@
 # The-Animal-Finder
 A maven based javaFX application that uses mongoDB that helps to identify unknown animals if present in database.
 
-![image-20200825153111865](C:\Users\mysti\AppData\Roaming\Typora\typora-user-images\image-20200825153111865.png)
 
 
+## Screenshots
 
-![image-20200825155432516](C:\Users\mysti\AppData\Roaming\Typora\typora-user-images\image-20200825155432516.png)
+<img src="https://i.imgur.com/ounoqkB.png" alt="Screenshot1" style="zoom: 80%;" />
 
-![image-20200825155457321](C:\Users\mysti\AppData\Roaming\Typora\typora-user-images\image-20200825155457321.png)
+<img src="https://i.imgur.com/CUtxaRb.png" alt="Screenshot2" style="zoom:80%;" />![Screenshot3](https://i.imgur.com/P42ONpw.png)
 
+<img src="https://i.imgur.com/CUtxaRb.png" alt="Screenshot2" style="zoom:80%;" />![Screenshot3](https://i.imgur.com/P42ONpw.png)
 
-
-## How to Run the Code:
+## How to Run the Code
 
 1. Import the project using VCS as a maven project
 
